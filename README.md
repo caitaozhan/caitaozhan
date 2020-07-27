@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 - 🔭 I’m currently working on localization related stuff.
 - ⚡ Fun fact: I started becoming a YouTuber recently. Checkout [my channel](https://www.youtube.com/channel/UCaIn4Xvo3bJh24uxHIM9VIA)
