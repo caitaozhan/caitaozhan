@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on localization related stuff.
 - ⚡ Fun fact: I started becoming a YouTuber recently. Checkout [my channel](https://www.youtube.com/channel/UCaIn4Xvo3bJh24uxHIM9VIA)
 
