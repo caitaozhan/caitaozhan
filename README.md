@@ -1,7 +1,9 @@
 ### Hello world! 👋
 
-- 🔭 I’m currently working on localization related stuff.
+- 🔭 My previous work is on spectrum sensing and localization.
+- 🌱 I’m currently learning quantum computing/networking.
 - ⚡ Fun fact: I started becoming a YouTuber recently. Checkout [my channel](https://www.youtube.com/channel/UCaIn4Xvo3bJh24uxHIM9VIA)
+
 
 <!--
 - 🌱 I’m currently learning 
