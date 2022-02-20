@@ -1,8 +1,30 @@
-### Hello world! 👋
+# Hi :wave:, I'm Caitao Zhan. <img src="https://komarev.com/ghpvc/?username=caitaozhan" alt="Caitao Zhan" />
 
-- 🔭 My previous work is on spectrum sensing and localization.
-- 🌱 I’m currently learning quantum computing/networking.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **Computer Networks | Wireless | Quantum | Ph.D. Candidate of CS, Stony Brook University**
+
+<table>
+<tr>
+<td>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=caitaozhan&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
+
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitaozhan&layout=compact&hide=HTML,VHDL&langs_count=6)]()
+
+</td>
+</tr>
+</table>
+
+
+- 🔭 My previous work is in spectrum sensing and wireless localization.
+- 🌱 My current work is in quantum computing, sensing and networking.
 - ⚡ Fun fact: I am a YouTuber. Please checkout [my channel](https://www.youtube.com/c/ZhanCaitao)
+- 😄 Please also checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ) 
+
+
 
 
 <!--
