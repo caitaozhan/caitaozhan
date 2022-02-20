@@ -21,8 +21,8 @@
 
 - 🔭 My previous work is in spectrum sensing and wireless localization.
 - 🌱 My current work is in quantum computing, sensing and networking.
-- ⚡ Fun fact: I am a YouTuber. Please checkout [my channel](https://www.youtube.com/c/ZhanCaitao)
-- 😄 Please also checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ) 
+- ⚡ Please checkout my [YouTube channel](https://www.youtube.com/c/ZhanCaitao).
+- 😄 Please also checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ).
 
 
 
