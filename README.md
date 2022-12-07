@@ -1,4 +1,4 @@
-# Hello world! I'm Caitao Zhan. <img src="https://komarev.com/ghpvc/?username=caitaozhan" alt="Caitao Zhan" />
+# Hello world! I'm Caitao Zhan.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **Computer Networks | Wireless | Quantum | Ph.D. Candidate of CS, Stony Brook University**
 
