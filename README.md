@@ -5,8 +5,8 @@
 
 
 <a href="https://github.com/caitaozhan">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caitaozhan&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide=jupyter%20notebook" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caitaozhan&layout=compact&langs_count=6" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caitaozhan&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caitaozhan&layout=compact&langs_count=6&hide=jupyter%20notebook" />
 </a>
 
 
