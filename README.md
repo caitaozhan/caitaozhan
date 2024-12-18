@@ -6,13 +6,13 @@
 
 <a href="https://github.com/caitaozhan">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caitaozhan&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caitaozhan&layout=compact&langs_count=6&hide=jupyter%20notebook" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caitaozhan&layout=compact&langs_count=6&hide=jupyter%20notebook" />
 </a>
 
 
 - 🔭 My previous work is in spectrum sensing and wireless localization.
 - 🌱 My current work is in quantum computing, sensing, and networking.
-- 😄 Please also checkout my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ).
+- 😄 Please also check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ).
 
 
 
