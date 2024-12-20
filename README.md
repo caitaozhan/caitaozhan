@@ -10,7 +10,7 @@
 </a>
 
 
-- 🔭 My previous work is in spectrum sensing and wireless localization.
+- 🔭 My previous work is in classical computer networks, including wireless networks, spectrum sensing, and wireless localization.
 - 🌱 My current work is in quantum computing, sensing, and networking.
 - 😄 Please also check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=fNBFRWEAAAAJ).
 
