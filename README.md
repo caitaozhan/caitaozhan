@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="48"> **Computer Networks | Wireless | Quantum**
 
-
+![](https://komarev.com/ghpvc/?username=caitaozhan&style=for-the-badge&color=blueviolet)
 
 <a href="https://github.com/caitaozhan">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caitaozhan&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" /> -->
